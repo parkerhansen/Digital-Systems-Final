@@ -30,7 +30,7 @@ Even though all networks work based off the same basic principals they are not a
 You can observe a personal area networks right in your home. The connections between your computers, smartphones, tablets, and other "smart-devices" that are in your home compromise your own personal area network. These connections can be either physical, through cables, or wirelessly over your home wifi.
 
 ##### Local Area Networks (LAN)
-Chances are you have heard the term LAN when you are trying to communicate with your internet service provider or trying to connect to wifi. Local area networks connect devices within a limited area. For example these areas could be residences, schools, 
+Chances are you have heard the term LAN when you are trying to communicate with your internet service provider or trying to connect to wifi. Local area networks connect devices within a limited area. For example these areas could be residences, schools,
 
 ##### Metropolitan Area Networks (MAN)
 
@@ -45,4 +45,4 @@ Chances are you have heard the term LAN when you are trying to communicate with 
 
 ---
 
-#### <a name"osi"> The OSI Model
+#### <a name="osi"> The OSI Model
