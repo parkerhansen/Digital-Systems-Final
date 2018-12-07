@@ -1,19 +1,3 @@
-<head>
-<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i&amp;subset=latin-ext" rel="stylesheet">
-    <style>
-
-  h1{
-    font-family: 'IBM Plex Sans', sans-serif;
-  }
-  h2{
-    font-family: 'IBM Plex Sans', sans-serif;
-  }
-
-    </style>
-</head>
-
-
-
 <center>A DATABASE FOR YOUR INTERNET OF THINGS:</center>
 <center><img src="http://localhost/ElitaDrawing.jpeg" /></center>
 <center>HELPING YOU SEE BOTH THE FOREST AND THE TREES</center>
@@ -34,7 +18,6 @@
 <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
 
 <head>
-  <style type="text/css">
       body{
         background-color: rgb(255, 255, 255);
         color: rgb(26, 83, 66);
@@ -89,6 +72,4 @@ nav{
         nav > ul > li:hover > a {
           color: rgb( 255, 255, 255 );
         }
-
-  </style>
 </head>
