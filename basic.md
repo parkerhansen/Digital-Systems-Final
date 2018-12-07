@@ -70,4 +70,6 @@ The server and client can be connected wirelessly or be wired together but it is
 ## <a name="ip"> [IP Addresses](https://en.wikipedia.org/wiki/IP_address)
 For devices to communicate between each other across a network there needs to be a way to uniquely identify the source and the destination of such communication. This is where IP Addresses come into play.
 
+IP Addresses let computers know the exact location of the other computer it is trying to communicate with.
+
 ---
