@@ -5,16 +5,11 @@
 #### Contents
 
 1. [What is a Digital Network?](#what)
-
 2. [Types of Networks](#type)
-
-
-* [Personal Area Network (PAN)](#PAN)
-* [Local Area Networks (LAN)](#LAN)
-* [Metropolitan Area Networks (MAN](#MAN)
-* [Wide Area Networks (WAN](#WAN)
-
-
+    <br>[Personal Area Network (PAN)](#PAN)
+    <br>[Local Area Networks (LAN)](#LAN)
+    <br>[Metropolitan Area Networks (MAN](#MAN)
+    <br>[Wide Area Networks (WAN](#WAN)
 3. [IP Addresses](#ip)
 
 <br>
