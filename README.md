@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <h3><a href="History.md"> Brief History</a></h3>
+      <h3><a href="basic.md">Basic Concepts</a></h3>
     </td>
     <td>
       <h3><a href="Local.md">Local Networks</a></h3>
@@ -20,9 +20,7 @@
       <h3><a href="Internet.md">The Internet</a></h3>
     </td>
     <td>
-      <h3><a href="Security.md">Security</a></h3>
+      <h3><a href="Security.md">Security and Errors</a></h3>
     </td>
   </tr>
 </table>
-
-##### What is a digital network?
