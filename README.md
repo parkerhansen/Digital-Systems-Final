@@ -1,4 +1,4 @@
-## <center><u>Digital Networks</u></center>
+## <u><center>Digital Networks</center></u>
 <center><img src=Network.jpg></center>
 <center>HELPING YOU SEE BOTH THE FOREST AND THE TREES</center>
 
