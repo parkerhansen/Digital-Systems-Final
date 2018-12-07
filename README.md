@@ -1,5 +1,3 @@
-
-
 # Digital Networks
 ###### Created by: Parker Hansen
 <p align="center"><img src="Network.jpg" height="360" width="640"></p>
