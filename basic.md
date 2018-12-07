@@ -35,7 +35,7 @@ You can observe a personal area networks right in your home. The connections bet
 Chances are you have heard the term LAN when you are trying to communicate with your internet service provider or trying to connect to wifi. Local area networks connect devices within a limited area. For example these areas could be residences, schools, or offices.
 <br><br>The connection between these devices can possibly have a single connection to the internet, within you home this connection happens usually at a modem (example pictured below). While there is also a router, the difference between these two peripherals is that the router connects the devices while the modem connects the devices to the internet service provider.
 
-<p align="center"><img src="modem.jpg" height="" width=""></p>
+<p align="center"><img src="modem.jpg" height="400" width="400"></p>
 
 
 **Metropolitan Area Networks (MAN)**<br>
