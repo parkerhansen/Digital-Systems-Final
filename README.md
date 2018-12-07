@@ -1,11 +1,11 @@
-## <u>Digital Networks</u>
+## Digital Networks
 ###### Created by: Parker Hansen
 <p align="center"><img src="Network.jpg" height="360" width="640"></p>
 
 ---
 
-<u>Purpose:</u> This tutorial can be used to learn about the workings of digital networks and help users realize and understand the networks they use everyday.
-<br><u>Target Audience:</u> The content included does not require any past exposure to any content but will be useful for someone who is comfortable with technology.
+**Purpose:** This tutorial can be used to learn about the workings of digital networks and help users realize and understand the networks they use everyday.
+<br>**Target Audience:** The content included does not require any past exposure to any content but will be useful for someone who is comfortable with technology.
 
 <table>
   <tr>
