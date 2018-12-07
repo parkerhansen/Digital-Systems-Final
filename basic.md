@@ -10,6 +10,8 @@
 * [Metropolitan Area Networks (MAN](#MAN)
 * [Wide Area Networks (WAN](#WAN)
 
+[IP Addresses](#ip)
+
 <br>
 
 <p align="center"><img src="old_comp.jpg" height="" width=""></p>
@@ -20,7 +22,7 @@
 
 ---
 
-<a name="type">
+## <a name="type"> Types of Networks
 Even though all networks work based off the same basic principals they are not all the same. Below I am going to explain some commonly used networks.
 
 ### <a name="PAN"> Personal Area Network (PAN)
@@ -47,9 +49,5 @@ This image is a good recap of what was explained above:
 
 ---
 
-### <a name="how"> How are Networks Created?
-
-
----
 
 ### <a name="osi"> The OSI Model
