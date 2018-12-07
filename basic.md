@@ -44,7 +44,7 @@ Going up in scale, a metropolitan area network (MAN) can cover an entire town or
 **Wide Area Networks (WAN)**<br>
 Even larger than a metropolitan area network there are wide area networks (WAN). By definition a WAN covers over a large geographical distance or place
 
-<p align="center"><img src="basic_network.png" height="221.3" width="376"></p>
+<p align="center"><img src="basic_network.png" height="" width=""></p>
 
 ---
 
