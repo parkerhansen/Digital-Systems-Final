@@ -39,10 +39,12 @@ Chances are you have heard the term LAN when you are trying to communicate with 
 
 
 **Metropolitan Area Networks (MAN)**<br>
-
+Going up in scale, a metropolitan area network (MAN) can cover an entire town or city as apposed to a limited specific area with a LAN. Thus it implies that a MAN connects all the networks in a city to a larger network.
 
 **Wide Area Networks (WAN)**<br>
+Even larger than a metropolitan area network there are wide area networks (WAN). By definition a WAN covers over a large geographical distance or place
 
+<p align="center"><img src="basic_network.png" height="221.3" width="376"></p>
 
 ---
 
