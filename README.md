@@ -11,7 +11,6 @@
 </ul>
 </nav>
 
-<p align="center">
 <table>
   <tr>
     <td>
@@ -23,4 +22,3 @@
     </td>
   </tr>
 </table>
-</p>
