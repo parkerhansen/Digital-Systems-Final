@@ -62,6 +62,9 @@ A **client** is a different computer that requests the server to view such data 
 
 The server and client can be connected wirelessly or be wired together but it is important to keep this relationship in mind as the data you view on your computer came from a server, such as when searching on google.
 
+
+<p align="center"><img src="https://commotionwireless.net/files/CCK_Networking_Basics_Client_server_diagram.png" height="" width=""></p>
+
 ---
 
 ## <a name="ip"> IP Addresses
