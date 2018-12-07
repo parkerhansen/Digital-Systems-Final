@@ -29,13 +29,13 @@ Even though all networks work based off the same basic principals they are not a
 **Personal Area Network (PAN)**<br>
 You can observe a personal area networks right in your home. The connections between your computers, printers, smartphones, tablets, and other "smart-devices" that are in your home compromise your own personal area network. These connections can be either physical, through cables, or wirelessly over your home wifi and usually the device connecting them all is a router (example pictured below).
 
-<p align="center"><img src="router.jpg" height="378" width="567.4285714"></p>
+<p align="center"><img src="router.jpg" height="189" width="283.5"></p>
 
 **Local Area Networks (LAN)**<br>
 Chances are you have heard the term LAN when you are trying to communicate with your internet service provider or trying to connect to wifi. Local area networks connect devices within a limited area. For example these areas could be residences, schools, or offices.
 <br><br>The connection between these devices can possibly have a single connection to the internet, within you home this connection happens usually at a modem (example pictured below). While there is also a router, the difference between these two peripherals is that the router connects the devices while the modem connects the devices to the internet service provider.
 
-<p align="center"><img src="modem.jpg" height="400" width="400"></p>
+<p align="center"><img src="modem.jpg" height="200" width="200"></p>
 
 
 **Metropolitan Area Networks (MAN)**<br>
