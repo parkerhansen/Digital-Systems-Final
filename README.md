@@ -2,7 +2,7 @@
 <p align="center"><img src="Network.jpg" height="360" width="640"></p>
 <center>HELPING YOU SEE BOTH THE FOREST AND THE TREES</center>
 
-<div style="text-align:center"><span style="color:red; font-family:Georgia; font-size:2em;">The goal of the Women’s Enterprise Action Loan Fund, (WEALF): helping women business owners become financially self-sufficient.</span></div>
+<div style="text-align:center">The goal of the Women’s Enterprise Action Loan Fund, (WEALF): helping women business owners become financially self-sufficient.</div>
 
 <center>
 <nav>
