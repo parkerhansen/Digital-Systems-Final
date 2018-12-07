@@ -4,7 +4,7 @@
 [Back](README.md)
 
 #### Contents
-* [What is a Digital Network?](####What-is-a-Digital-Network)
+* [What is a Digital Network?](#### What is a Digital Network)
 * Types of Networks
 * How are Networks Created?
 * The OSI Model
