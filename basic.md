@@ -27,10 +27,12 @@ A digital network is the connections between devices that allow for communicatio
 Even though all networks work based off the same basic principals they are not all the same. Below I am going to explain some commonly used networks.
 
 ##### Personal Area Network (PAN)
-You can observe a personal area networks right in your home. The connections between your computers, smartphones, tablets, and other "smart-devices" that are in your home compromise your own personal area network. These connections can be either physical, through cables, or wirelessly over your home wifi.
+You can observe a personal area networks right in your home. The connections between your computers, printers, smartphones, tablets, and other "smart-devices" that are in your home compromise your own personal area network. These connections can be either physical, through cables, or wirelessly over your home wifi and usually the device connecting them all is a router.
+
+<p align="center"><img src="router.jpg" height="" width=""></p>
 
 ##### Local Area Networks (LAN)
-Chances are you have heard the term LAN when you are trying to communicate with your internet service provider or trying to connect to wifi. Local area networks connect devices within a limited area. For example these areas could be residences, schools,
+Chances are you have heard the term LAN when you are trying to communicate with your internet service provider or trying to connect to wifi. Local area networks connect devices within a limited area. For example these areas could be residences, schools, or offices. The connection between these devices can possibly have a single connection to the internet, within you home this connection happens a
 
 ##### Metropolitan Area Networks (MAN)
 
