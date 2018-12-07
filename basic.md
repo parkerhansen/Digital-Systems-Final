@@ -50,4 +50,4 @@ This image is a good recap of what was explained above:
 ---
 
 
-### <a name="osi"> The OSI Model
+## <a name="ip"> IP Addresses
