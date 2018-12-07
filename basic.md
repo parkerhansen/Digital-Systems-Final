@@ -2,6 +2,12 @@
 
 [Back](README.md)
 
+---
+
+<p align="center"><img src="old_comp.jpg" height="" width=""></p>
+
+---
+
 #### Contents
 
 1. [What is a Digital Network?](#what)
@@ -12,10 +18,6 @@
     <br>- [Wide Area Networks (WAN](#WAN)
 3. [Clients and Servers](#clients)
 4. [IP Addresses](#ip)
-
-<br>
-
-<p align="center"><img src="old_comp.jpg" height="" width=""></p>
 
 <br>
 
