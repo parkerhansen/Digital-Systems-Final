@@ -56,7 +56,9 @@ This image is a good recap of what was explained above:
 ## <a name="clients"> Clients and Servers
 The distinction and relationship between clients and servers is an important one.
 <br>A **server** is a computer that holds data and content.
+
 <br>A **client** is a different computer that requests the server to view such data and content. The large majority of computers you come in contact with will be clients as you are requesting data and information when you use such computers.
+
 <br>The server and client can be connected wirelessly or be wired together but it is important to keep this relationship in mind as the data you view on your computer came from a server, such as when searching on google.
 
 ---
