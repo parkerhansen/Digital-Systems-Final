@@ -1,23 +1,23 @@
 ## <u>Digital Networks</u>
 ###### Created by: Parker Hansen
 <p align="center"><img src="Network.jpg" height="360" width="640"></p>
-
-<nav>
-<li><a href="Users.php">Users</a></li>
-<li><a href="SearchDevices.php">Devices</a></li>
-<li><a href="Providers.php">Providers</a></li>
-<li><a href="SearchPackage.php">Packages</a></li>
-<li><a href="SearchAccessLogs.php">Access Logs</a></li>
-</ul>
-</nav>
+--
+This tutorial can be used to learn about the workings of digital networks and help users realize and understand the networks they use everyday.
+<br>The content included does not require any past exposure to any content but will be useful for someone who is comfortable with technology.
 
 <table>
   <tr>
     <td>
-      <h5>lkdjfkldjfl</h5>
+      <a href="History.md">History</a>
     </td>
     <td>
-    jsdflkdsjfkj
+      Local Networks
+    </td>
+    <td>
+      The Internet
+    </td>
+    <td>
+
     </td>
   </tr>
 </table>
