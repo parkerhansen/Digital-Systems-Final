@@ -11,7 +11,7 @@
 </ul>
 </nav>
 
-<p aligh="center">
+<p align="center">
 <table>
   <tr>
     <td>
