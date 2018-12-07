@@ -1,4 +1,3 @@
-<html>
 <head>
 <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:100,100i&amp;subset=latin-ext" rel="stylesheet">
     <style>
@@ -91,5 +90,3 @@ nav{
 
   </style>
 </head>
-
-</html>
