@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="http://markdowncss.github.io/air/" />
+<link rel="stylesheet" type="text/css" media="all" href="https://github.com/markdowncss/air.git" />
 
 # Digital Networks
 ###### Created by: Parker Hansen
