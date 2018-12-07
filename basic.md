@@ -3,14 +3,9 @@
 [Back](README.md)
 
 #### Contents
-1. Types of Networks
 
-Personal Area Network (PAN)
-Local Area Networks (LAN)
-Metropolitan Area Networks (MAN]
-  Wide Area Networks (WAN
-
-1. [Personal Area Network (PAN)](#PAN)
+[Types of Networks](#type)
+* [Personal Area Network (PAN)](#PAN)
 * [Local Area Networks (LAN)](#LAN)
 * [Metropolitan Area Networks (MAN](#MAN)
 * [Wide Area Networks (WAN](#WAN)
@@ -25,6 +20,7 @@ Metropolitan Area Networks (MAN]
 
 ---
 
+<a name="type">
 Even though all networks work based off the same basic principals they are not all the same. Below I am going to explain some commonly used networks.
 
 ### <a name="PAN"> Personal Area Network (PAN)
