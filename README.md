@@ -15,9 +15,9 @@
 
 
 
-<h1><center>A DATABASE FOR YOUR INTERNET OF THINGS:</center></h1>
+<center>A DATABASE FOR YOUR INTERNET OF THINGS:</center>
 <center><img src="http://localhost/ElitaDrawing.jpeg" /></center>
-<h2><center>HELPING YOU SEE BOTH THE FOREST AND THE TREES</center></h2>
+<center>HELPING YOU SEE BOTH THE FOREST AND THE TREES</center>
 
 <center>
 <nav>
