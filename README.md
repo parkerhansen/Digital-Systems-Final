@@ -24,6 +24,3 @@
     </td>
   </tr>
 </table>
-
-### <a name="what"> What is a Digital Network?
-A digital network is the connections between devices that allow for communication between each other. As technology has evolved since the introduction of computers these links can either be physical cables (such as ethernet cables) or wirelessly. The devices are usually referenced to as "nodes" in the context of digital networks.
