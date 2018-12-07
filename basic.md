@@ -10,7 +10,7 @@
     <br>- [Local Area Networks (LAN)](#LAN)
     <br>- [Metropolitan Area Networks (MAN](#MAN)
     <br>- [Wide Area Networks (WAN](#WAN)
-3. [Clients and Servers]($clients)
+3. [Clients and Servers](#clients)
 4. [IP Addresses](#ip)
 
 <br>
