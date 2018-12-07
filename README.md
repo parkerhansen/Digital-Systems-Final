@@ -1,5 +1,5 @@
 ## <u><center>Digital Networks</center></u>
-<center><img src="Network.jpg" height="720" width="1280"></center>
+<center><img src="Network.jpg" height="360" width="640"></center>
 <center>HELPING YOU SEE BOTH THE FOREST AND THE TREES</center>
 
 <center>
