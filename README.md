@@ -11,13 +11,13 @@ This tutorial can be used to learn about the workings of digital networks and he
       <a href="History.md">History</a>
     </td>
     <td>
-      Local Networks
+      <a href="Local.md">Local Networks</a>
     </td>
     <td>
-      The Internet
+      <a href="Internet.md">The Internet</a>
     </td>
     <td>
-
+      <a href="Security.md">Security</a>
     </td>
   </tr>
 </table>
