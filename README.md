@@ -1,6 +1,6 @@
 ## <u>Digital Networks</u>
 ###### Created by: Parker Hansen
-<p align="center"><img src="Network.jpg" height="360" width="640"></p>
+<p align="center"><img src="Network.jpg" height="432" width="768"></p>
 
 ---
 
