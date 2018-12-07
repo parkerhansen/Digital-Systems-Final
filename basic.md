@@ -10,7 +10,8 @@
     <br>- [Local Area Networks (LAN)](#LAN)
     <br>- [Metropolitan Area Networks (MAN](#MAN)
     <br>- [Wide Area Networks (WAN](#WAN)
-3. [IP Addresses](#ip)
+3. [Clients and Servers]($clients)
+4. [IP Addresses](#ip)
 
 <br>
 
@@ -52,5 +53,14 @@ This image is a good recap of what was explained above:
 
 ---
 
+## <a name="clients"> Clients and Servers
+The distinction and relationship between clients and servers is an important one.
+<br>A **server** is a computer that holds data and content.
+<br>A **client** is a different computer that requests to view such data and content. The large majority of computers you come in contact with will be clients as you are requesting data and information when you use such computers.
+
+---
 
 ## <a name="ip"> IP Addresses
+
+
+---
