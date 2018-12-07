@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <h3><a href="History.md">History</a></h3>
+      <h3><a href="History.md"> Brief History</a></h3>
     </td>
     <td>
       <h3><a href="Local.md">Local Networks</a></h3>
@@ -24,3 +24,5 @@
     </td>
   </tr>
 </table>
+
+##### What is a digital network?
