@@ -1,5 +1,5 @@
 ## <center><u>Digital Networks</u></center>
-<center><img src=Network.jpg /></center>
+<center><img src=Network.jpg></center>
 <center>HELPING YOU SEE BOTH THE FOREST AND THE TREES</center>
 
 <center>
