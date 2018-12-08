@@ -44,5 +44,12 @@ This layer is responsible for how data is addressed and routed from one device t
 When moving into the transport layer data is finally able to be moved reliably and efficiency across the network, ensuring the transmission is complete.
 
 ### <a name="session"> [Session Layer](https://en.wikipedia.org/wiki/Session_layer)
+The session layer allows and controls the temporary sessions of the network, allowing them to be opened, closed, and managed. These sessions allow for communication on the network and thus data/information to be exchanged.
+
+### <a name="presentation"> [Presentation Layer](https://en.wikipedia.org/wiki/Presentation_layer)
+The presentation layer is responsible for the how the data/information is delivered and formatted so it can be further processed or eventually displayed. Some examples this layer can do is compression(reducing the size of the information that need to be transported), encryption, or conversion of data to be readable.
+
+### <a name="application"> [Applicaiton Layer](https://en.wikipedia.org/wiki/Application_layer)
+The last, highest, and closest to the end user layer is the application layer. It contains the interface that the end user interacts with. It is the user interface and is responsible for displaying received information to the user.
 
 ---
