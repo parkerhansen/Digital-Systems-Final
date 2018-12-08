@@ -18,6 +18,7 @@
     <br>- [Wide Area Networks (WAN](#WAN)
 3. [Clients and Servers](#clients)
 4. [IP Addresses](#ip)
+5. [Firewalls](#fire)
 
 <br>
 
@@ -75,3 +76,12 @@ For devices to communicate between each other across a network there needs to be
 IP Addresses let computers know the exact location of the other computer it is trying to communicate with.
 
 ---
+
+## <a name-"fire"> [Firewalls][1]
+You can think of a firewall as a filter. It monitors incoming and outgoing messages and information based on given rules. Most routers have firewalls built in them to keep out unwanted messages from reaching the computers inside of the network.
+
+<p align="center"><img src="https://commotionwireless.net/files/CCK_Networking_Basics_router_icons_3.png" height="" width=""></p>
+
+---
+
+[1]: https://en.wikipedia.org/wiki/Firewall_(computing)
