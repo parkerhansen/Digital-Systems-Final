@@ -68,7 +68,7 @@ The server and client can be connected wirelessly or be wired together but it is
 
 <p align="center"><img src="https://commotionwireless.net/files/CCK_Networking_Basics_Client_server_diagram.png" height="" width=""></p>
 
-Watch: <a href="https://www.youtube.com/watch?v=CwfTpGVa2wE&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO&index=8"><img src="youtube3.jpg" alt="What is a Computer Network?" width="240" height="180" border="10" /></a>
+Watch: <a href="https://www.youtube.com/watch?v=CwfTpGVa2wE&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO&index=8"><img src="youtube3.jpg" alt="Clients and Servers" width="240" height="180" border="10" /></a>
 
 ---
 

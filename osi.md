@@ -29,9 +29,9 @@ The Open Systems Interconnection (OSI) Model is a way of describing a computer n
 
 Watch:
 
-Part 1: <a href="https://www.youtube.com/watch?v=CG8O_CVbosE&index=16&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO"><img src="youtube5.jpg" alt="What is a Computer Network?" width="240" height="180" border="10" /></a>
+Part 1: <a href="https://www.youtube.com/watch?v=CG8O_CVbosE&index=16&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO"><img src="youtube5.jpg" alt="OSI Part 1" width="240" height="180" border="10" /></a>
 
-Part 2: <a href="https://www.youtube.com/watch?v=4203P7ahWI8&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO&index=17"><img src="youtube4.jpg" alt="What is a Computer Network?" width="240" height="180" border="10" /></a>
+Part 2: <a href="https://www.youtube.com/watch?v=4203P7ahWI8&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO&index=17"><img src="youtube4.jpg" alt="OSI Part 2" width="240" height="180" border="10" /></a>
 
 ---
 
