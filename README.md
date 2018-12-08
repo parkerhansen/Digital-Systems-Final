@@ -5,7 +5,7 @@
 ---
 
 **Purpose:** This tutorial can be used to learn about the workings of digital networks and help users realize and understand the networks they use everyday.
-<br>**Target Audience:** The content included does not require any past exposure to any content but will be useful for someone who is comfortable with technology. More geared towards high school age students.
+<br>**Target Audience:** The content included does not require any past exposure to any content but will be useful for someone who is comfortable with technology. More geared towards high school age and up students.
 
 <tab>
 <table>
