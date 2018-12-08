@@ -29,4 +29,4 @@ Videos to watch:
 
 <a href="https://www.youtube.com/watch?v=3QhU9jd03a0&feature=youtu.be"><img src="youtube1.jpg" alt="Computer Networks" width="240" height="180" border="10" /></a>
 
-<a href="https://www.youtube.com/watch?v=ueVnSz_lXEs&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO"><img src="youtube2.jpg" alt="What is a Computer Network?" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=ueVnSz_lXEs&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO">What is a Computer Network?<img src="youtube2.jpg" alt="What is a Computer Network?" width="240" height="180" border="10" /></a>
