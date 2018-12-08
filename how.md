@@ -18,7 +18,7 @@
 ---
 
 ## <a name="what"> What Makes a Network?
-
+With the basic idea that a digital network is the connections between devices that allow for communication between each other, all that is required is to connect devices with the ability to exchange data. This connection can be temporary or permanent and wired or wireless. The last necessary component to be able to connect the devices is a **network card** or the equivalent. While most modern devices have them already built in, they are essential to the ability for the device to connect to a network. 
 
 ---
 
