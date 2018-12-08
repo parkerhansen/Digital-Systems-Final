@@ -59,7 +59,7 @@ This image is a good recap of what was explained above:
 ## <a name="clients"> Clients and Servers
 The distinction and relationship between clients and servers is an important one.
 
-A **server** is a computer that holds data and content.
+A **server** (host) is a computer that holds data and content.
 
 A **client** is a different computer that requests the server to view such data and content. The large majority of computers you come in contact with will be clients as you are requesting data and information when you use such computers.
 
@@ -67,6 +67,8 @@ The server and client can be connected wirelessly or be wired together but it is
 
 
 <p align="center"><img src="https://commotionwireless.net/files/CCK_Networking_Basics_Client_server_diagram.png" height="" width=""></p>
+
+Watch: <a href="https://www.youtube.com/watch?v=CwfTpGVa2wE&list=PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO&index=8"><img src="youtube3.jpg" alt="What is a Computer Network?" width="240" height="180" border="10" /></a>
 
 ---
 
