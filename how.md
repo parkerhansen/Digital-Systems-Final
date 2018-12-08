@@ -9,10 +9,16 @@
 ---
 
 #### Contents
-1. [Network Hubs and Switches](#net)
-2. [What Makes a Network?](#what)
+
+1. [What Makes a Network?](#what)
+2. [Network Hubs and Switches](#net)
 
 <br>
+
+---
+
+## <a name="what"> What Makes a Network?
+
 
 ---
 
@@ -24,5 +30,3 @@ When computers where connected by ethernet cables to create a network, there nee
 One downside of hubs is that if a lot of computers are trying to send information/data through the hub it can slow down the data transmission dramatically. To solve this problem a **switch** is put in place. Using the IP connected with where the data is supposed to be sent, the switch directs the data to that exact computer.
 
 ---
-
-## <a name="what"> What Makes a Network?
